@@ -20,7 +20,7 @@ can follow the action live on an online racing dashboard.
     2. [Goal](#goal)
 2. [User Experience](#user-experience)
     1. [Target Audience](#target-audience)
-    2. [User Requrements and Expectations](#user-requrements-and-expectations)
+    2. [User Requirements and Expectations](#user-requrements-and-expectations)
 3. [Design](#design)
     1. [Design Choices](#design-choices)
     2. [Colour](#colours)
