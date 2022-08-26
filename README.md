@@ -25,7 +25,6 @@ Project by Hira Zaidi, Valentine Favrod, Helena Mason and Pooja Bhardwaj
 6. [Testing](#validation)
     1. [Device testing](#performing-tests-on-various-devices)
     2. [Browser compatibility](#browser-compatability)
-    3. [Testing user stories](#testing-user-stories)
 8. [Bugs](#Bugs)
 9. [Credits](#credits)
 10. [Acknowledgements](#acknowledgements)
