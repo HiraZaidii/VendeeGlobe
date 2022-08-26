@@ -9,8 +9,7 @@ Project by Hira Zaidi, Valentine Favrod, Helena Mason and Pooja Bhardwaj
 ### Introduction
 The Vendée Globe is a solo non-stop round the world yacht race founded by Philippe Jeantot in 1989. The race takes place every four years and is considered an extreme
 quest of individual endurance and the ultimate test in ocean racing. For this race we are building a technology for tracking the boats in real-time so that spectators
-can follow the action live on an online racing dashboard. As this race is not live during our project we will use a Python application that will simulate boat 
-telemetry data from a fleet of 10 race participants.
+can follow the action live on an online racing dashboard.
 
 
 
@@ -43,7 +42,8 @@ telemetry data from a fleet of 10 race participants.
 ### Challenge
 For this project we will have to build a cloud based Lambda Architecture to process the telemetry data from the sailing boats. 
 The architecture should run in Azure and contain a real-time path for processing sailing boat data in real-time, and a batch-processing path for collecting sailing
-boat data in batches and performing calculations on those batches.
+boat data in batches and performing calculations on those batches. As this race is not live during our project we will use a Python application that will simulate boat 
+telemetry data from a fleet of 10 race participants.
 
 
 ### Goal
