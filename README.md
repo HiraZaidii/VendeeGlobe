@@ -4,7 +4,7 @@
 ![vendee_globe_logo](https://user-images.githubusercontent.com/98779723/186888333-b800131f-8713-4bc0-a199-22d76a705ad9.jpg)
 
 
-[Live webpage]()
+Project by Hira Zaidi, Valentine Favrod, Helena Mason and Pooja Bhardwaj
 
 ## Table of Content
 
