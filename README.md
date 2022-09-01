@@ -25,9 +25,9 @@ can follow the action live on an online racing dashboard.
     1. [Languages](#languages)
     2. [Frameworks & Tools](#frameworks-&-tools)
 4. [Features in Power BI](#features)
-5. [Testing](#validation)
-    1. [Device testing](#performing-tests-on-various-devices)
-    2. [Browser compatibility](#browser-compatability)
+5. [Testing User Stories](#validation)
+    1. [Live tracking](#performing-tests-on-various-devices)
+    2. [Ranking](#browser-compatability)
 6. [Bugs](#Bugs)
 7. [Credits](#credits)
 8. [Acknowledgements](#acknowledgements)
@@ -74,14 +74,14 @@ The audience would require to see the exact location of the boat. They would als
 
 
 
-## Validation
+## Testing User Stories
 
 
 
-### Performing tests on various devices 
+### Live Tracking 
 
 
-### Browser compatability
+### Ranking
 
 
 
