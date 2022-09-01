@@ -38,7 +38,3 @@
 # MAGIC %sql
 # MAGIC 
 # MAGIC select * from agg_boating
-
-# COMMAND ----------
-
-hi
