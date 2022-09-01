@@ -75,14 +75,32 @@ The audience would require to see the exact location of the boat. They would als
 
 
 ## Testing User Stories
-
-
+While testing user stories we want to ensure that we meet the the requirements and expectation of the target audience.
 
 ### Live Tracking 
+As a user I want to be able to see the positions of the boats.
 
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Map | Navigate to the Tracking tab in Power BI | Live locations of the boats | Works as expected |
+
+
+<details><summary>Screenshots</summary>
+![tracking](https://user-images.githubusercontent.com/98779723/187908441-093b5685-af68-4149-a7c6-26215d9c3de6.png)
+</details>
 
 ### Ranking
+As a user I want to know what the ranking is.
 
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Map | Navigate to the Ranking tab in Power BI | Live locations of the boats | Works as expected |
+
+
+<details><summary>Screenshots</summary>
+![ranking](https://user-images.githubusercontent.com/98779723/187908687-dbc3fa22-01d3-4221-bac6-f4e39a50ab18.png)
+
+</details>
 
 
 ## Bugs
@@ -91,8 +109,11 @@ The audience would require to see the exact location of the boat. They would als
 ## Credits
 
 ### Code
-
+We have written the code by ourselves but took inspiration and examples from:
+- Google
+- Stack Overflow
 
 
 
 ## Acknowledgements
+We would like to thank Techionista Academy that provided us with this challenging project and Avanade.
