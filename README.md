@@ -65,7 +65,7 @@ The audience would require to see the exact location of the boat. They would als
 - SQL
 
 ### Frameworks & Tools
-- Azure
+- Azure Stream Analytics
 - Databricks
 - Power BI
 
