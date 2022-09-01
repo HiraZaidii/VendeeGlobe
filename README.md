@@ -28,9 +28,8 @@ can follow the action live on an online racing dashboard.
 5. [Testing User Stories](#validation)
     1. [Live tracking](#performing-tests-on-various-devices)
     2. [Ranking](#browser-compatability)
-6. [Bugs](#Bugs)
-7. [Credits](#credits)
-8. [Acknowledgements](#acknowledgements)
+6. [Credits](#credits)
+7. [Acknowledgements](#acknowledgements)
 
 ## Project Goals 
 
@@ -103,14 +102,12 @@ As a user I want to know what the ranking is.
 </details>
 
 
-## Bugs
-
-
 ## Credits
 
 ### Code
 We have written the code by ourselves but took inspiration and examples from:
 - Google
+- Youtube Tutorials
 - Stack Overflow
 
 
