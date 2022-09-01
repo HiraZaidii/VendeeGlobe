@@ -3,7 +3,9 @@
 
 ![vendee_globe_logo](https://user-images.githubusercontent.com/98779723/186888333-b800131f-8713-4bc0-a199-22d76a705ad9.jpg)
 
-link (https://app.powerbi.com/groups/me/reports/2318ef68-6d39-4b51-9e54-bb0528cd20d3/ReportSection?ctid=cf36141c-ddd7-45a7-b073-111f66d0b30c)
+[Live webpage]([https://hirazaidii.github.io/stress-escape-/](https://app.powerbi.com/groups/me/reports/2318ef68-6d39-4b51-9e54-bb0528cd20d3/ReportSection?ctid=cf36141c-ddd7-45a7-b073-111f66d0b30c))
+
+
 Project by Hira Zaidi, Valentine Favrod, Helena Mason and Pooja Bhardwaj
 
 ### Introduction
