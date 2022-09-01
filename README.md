@@ -21,20 +21,16 @@ can follow the action live on an online racing dashboard.
 2. [User Experience](#user-experience)
     1. [Target Audience](#target-audience)
     2. [User Requirements and Expectations](#user-requrements-and-expectations)
-3. [Design](#design)
-    1. [Design Choices](#design-choices)
-    2. [Colour](#colours)
-    3. [Structure](#structure)
-4. [Technologies Used](#technologies-used)
+3. [Technologies Used](#technologies-used)
     1. [Languages](#languages)
     2. [Frameworks & Tools](#frameworks-&-tools)
-5. [Features in Power BI](#features)
-6. [Testing](#validation)
+4. [Features in Power BI](#features)
+5. [Testing](#validation)
     1. [Device testing](#performing-tests-on-various-devices)
     2. [Browser compatibility](#browser-compatability)
-8. [Bugs](#Bugs)
-9. [Credits](#credits)
-10. [Acknowledgements](#acknowledgements)
+6. [Bugs](#Bugs)
+7. [Credits](#credits)
+8. [Acknowledgements](#acknowledgements)
 
 ## Project Goals 
 
@@ -56,30 +52,22 @@ with a ranking of racing teams. The ranking table should be sorted by who is cur
 
 
 ### Target Audience
+Our audience are all the people who want to track the participants and follow the contest.
 
-### User Requrements and Expectations
-
-## Design
-
-### Design Choices
-
-
-### Colour
-
-
-
-### Structure
-
-
+### User Requirements and Expectations
+The audience would require to see the exact location of the boat. They would also want to know the ranking of the participants.
 
 
 ## Technologies Used
 
 ### Languages
-
+- Python
+- SQL
 
 ### Frameworks & Tools
-
+- Azure
+- Databricks
+- Power BI
 
 
 ## Features in Power BI
