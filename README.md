@@ -24,12 +24,11 @@ can follow the action live on an online racing dashboard.
 3. [Technologies Used](#technologies-used)
     1. [Languages](#languages)
     2. [Frameworks & Tools](#frameworks-&-tools)
-4. [Features in Power BI](#features)
-5. [Testing User Stories](#validation)
+4. [Testing User Stories](#validation)
     1. [Live tracking](#performing-tests-on-various-devices)
     2. [Ranking](#browser-compatability)
-6. [Credits](#credits)
-7. [Acknowledgements](#acknowledgements)
+5. [Credits](#credits)
+6. [Acknowledgements](#acknowledgements)
 
 ## Project Goals 
 
@@ -68,8 +67,6 @@ The audience would require to see the exact location of the boat. They would als
 - Databricks
 - Power BI
 
-
-## Features in Power BI
 
 
 
