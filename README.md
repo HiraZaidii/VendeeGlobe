@@ -24,8 +24,9 @@ can follow the action live on an online racing dashboard.
     1. [Target Audience](#target-audience)
     2. [User Requirements and Expectations](#user-requrements-and-expectations)
 3. [Technologies Used](#technologies-used)
-    1. [Languages](#languages)
-    2. [Frameworks & Tools](#frameworks-&-tools)
+    1. [Architecture] (#Architecture)
+    2. [Languages](#languages)
+    3. [Frameworks & Tools](#frameworks-&-tools)
 4. [Testing User Stories](#validation)
     1. [Live tracking](#performing-tests-on-various-devices)
     2. [Ranking](#browser-compatability)
@@ -59,6 +60,8 @@ The audience would require to see the exact location of the boat. They would als
 
 
 ## Technologies Used
+
+### Architecture
 
 ### Languages
 - Python
