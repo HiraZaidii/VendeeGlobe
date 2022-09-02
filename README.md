@@ -63,6 +63,8 @@ The audience would require to see the exact location of the boat. They would als
 
 ### Architecture
 
+![Architecture_Databricks](https://user-images.githubusercontent.com/61182631/188172942-90834541-a6e1-42a9-9425-d612470b5d25.jpg)
+
 ### Languages
 - Python
 - SQL
