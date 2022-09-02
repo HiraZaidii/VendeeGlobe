@@ -24,7 +24,7 @@ can follow the action live on an online racing dashboard.
     1. [Target Audience](#target-audience)
     2. [User Requirements and Expectations](#user-requrements-and-expectations)
 3. [Technologies Used](#technologies-used)
-    1. [Architecture] (#Architecture)
+    1. [Architecture](#architecture)
     2. [Languages](#languages)
     3. [Frameworks & Tools](#frameworks-&-tools)
 4. [Testing User Stories](#validation)
